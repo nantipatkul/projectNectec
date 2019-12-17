@@ -1,6 +1,6 @@
 Name  = input("Name : ")
 LastName = input("LastName : ")
-Age  = input("Age : ")
+Age  = input("email : ")
 Addrent = input("Addrent : ")
 
 print("My name is : " ,Name)
