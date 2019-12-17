@@ -1,5 +1,5 @@
 x = input("x : ")
-y = input("y : ")
+z = input("z : ")
 
 Name  = input("Name : ")
 
