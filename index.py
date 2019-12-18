@@ -1,8 +1,9 @@
 Name  = input("Name : ")
 LastName = input("LastName : ")
 Age  = input("email : ")
-Addrent = input("Addrent : ")
+Address = input("Addrent : ")
 
 print("My name is : " ,Name)
 print("My lastname is : " ,LastName)
 print("Age : " ,Age)
+print("Address : ",Address)
