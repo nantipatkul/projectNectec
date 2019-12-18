@@ -5,3 +5,4 @@ Addrent = input("Addrent : ")
 
 print("My name is : " ,Name)
 print("My lastname is : " ,LastName)
+print("Age : " ,Age)
